@@ -1,0 +1,10 @@
+GET http://localhost:3000/hello
+
+###
+
+PUT http://localhost:3000/hello
+content-type: application/json
+
+{
+  "msg": "hello"
+}

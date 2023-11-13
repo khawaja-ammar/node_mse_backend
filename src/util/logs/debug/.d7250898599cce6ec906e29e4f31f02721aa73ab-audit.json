@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/src/util/logs/debug/.d7250898599cce6ec906e29e4f31f02721aa73ab-audit.json",
+    "files": [
+        {
+            "date": 1699872224374,
+            "name": "/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/src/util/logs/debug/2023-11-13.log",
+            "hash": "06ddde24dfee0a6504aa8f83f7686d679e00522ba595cd70fce195c4af1dbcdd"
+        }
+    ],
+    "hashType": "sha256"
+}
