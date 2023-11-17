@@ -11,7 +11,8 @@ import { logger, stream } from './util/logger';
 import { corsOptions } from './config/corsOptions';
 
 // All controllers
-import * as controllerHello from './controllers/test';
+import * as controllerHello from './controllers/hello';
+import * as controllerTest from './controllers/test';
 
 export class App {
   public app: express.Application;
@@ -58,5 +59,7 @@ export class App {
   private initializeRoutes() {
     this.app.get('/hello', controllerHello.getTest);
     this.app.put('/hello', controllerHello.putTest);
+
+    this.app.get('/test/jsonsearchquery', controllerTest.getTest);
   }
 }

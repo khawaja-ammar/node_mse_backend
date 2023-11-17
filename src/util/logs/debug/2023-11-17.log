@@ -1,0 +1,15 @@
+2023-11-17 19:44:39 info: =================================
+2023-11-17 19:44:39 info: ======= ENV: development ========
+2023-11-17 19:44:39 info: App listening on the port 5000
+2023-11-17 19:44:39 info: =================================
+2023-11-17 19:45:24 info: GET /test/jsonsearchquery 200 - - 7.711 ms
+2023-11-17 19:45:54 info: GET /properties 404 149 - 1.384 ms
+2023-11-17 19:46:38 info: GET /test/jsonsearchquery 200 - - 0.766 ms
+2023-11-17 19:49:27 info: =================================
+2023-11-17 19:49:27 info: ======= ENV: development ========
+2023-11-17 19:49:27 info: App listening on the port 5000
+2023-11-17 19:49:27 info: =================================
+2023-11-17 19:50:14 info: GET /test/jsonsearchquery 200 - - 5004.864 ms
+2023-11-17 19:50:23 info: GET /test/jsonsearchquery 200 - - 5006.458 ms
+2023-11-17 19:50:29 info: PUT /hello 200 20 - 13.198 ms
+2023-11-17 19:50:32 info: GET /hello 200 20 - 1.263 ms
