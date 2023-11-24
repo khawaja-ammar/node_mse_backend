@@ -60,6 +60,7 @@ export class App {
     this.app.get('/hello', controllerHello.getTest);
     this.app.put('/hello', controllerHello.putTest);
 
-    this.app.get('/test/jsonsearchquery', controllerTest.getTest);
+    this.app.get('/test/jsonsearchquery', controllerTest.getSearchResults);
+    this.app.get('/test/jsonautosuggest', controllerTest.getAutoSuggestResults);
   }
 }

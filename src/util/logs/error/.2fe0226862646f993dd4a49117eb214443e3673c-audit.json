@@ -9,6 +9,41 @@
             "date": 1700232279197,
             "name": "/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/src/util/logs/error/2023-11-17.log",
             "hash": "c592b213d164e433c6e7ebf4fe1217bdf04b38011cc8714035021cfd7f55418d"
+        },
+        {
+            "date": 1700288370531,
+            "name": "/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/src/util/logs/error/2023-11-18.log",
+            "hash": "345388548109bd93627d558d0c4c795c58707c6291a93d45fb043c387011b19b"
+        },
+        {
+            "date": 1700390941600,
+            "name": "/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/src/util/logs/error/2023-11-19.log",
+            "hash": "b26de468498e5d0b61482b1472bbde8536fcb5ba77521dcaaa48e0c78184bc52"
+        },
+        {
+            "date": 1700463442307,
+            "name": "/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/src/util/logs/error/2023-11-20.log",
+            "hash": "b12531f2492976a699869ebd12871a2cca117424d7fee48cb6144aa967c5fd19"
+        },
+        {
+            "date": 1700548735691,
+            "name": "/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/src/util/logs/error/2023-11-21.log",
+            "hash": "3da800138cafeb655ec8cf34f86dd94abf72a0015af29bccf290cbc069eb43ff"
+        },
+        {
+            "date": 1700634367476,
+            "name": "/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/src/util/logs/error/2023-11-22.log",
+            "hash": "f64bb5b66d73c0b25c2dd604aa3385575ba26b3e605714ff3840a437bbf89ba1"
+        },
+        {
+            "date": 1700720405814,
+            "name": "/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/src/util/logs/error/2023-11-23.log",
+            "hash": "45ee901764fdcd267a1e5eca3a1ecc9db2e6f0aa6767ff163a9d044324f6a836"
+        },
+        {
+            "date": 1700806718073,
+            "name": "/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/src/util/logs/error/2023-11-24.log",
+            "hash": "7b05130ec7c982891db5fa0bcbe8c6ae03cff37e4ada135e65bb93d3dea0f286"
         }
     ],
     "hashType": "sha256"

@@ -1,0 +1,273 @@
+2023-11-24 11:18:38 info: =================================
+2023-11-24 11:18:38 info: ======= ENV: development ========
+2023-11-24 11:18:38 info: App listening on the port 5000
+2023-11-24 11:18:38 info: =================================
+2023-11-24 11:22:00 info: =================================
+2023-11-24 11:22:00 info: ======= ENV: development ========
+2023-11-24 11:22:00 info: App listening on the port 5000
+2023-11-24 11:22:00 info: =================================
+2023-11-24 11:22:31 info: GET /test/jsonsearchquery 200 - - 5.678 ms
+2023-11-24 11:22:36 info: GET /test/jsonsearchquery 200 - - 0.918 ms
+2023-11-24 11:23:06 info: GET /test/jsonsearchquery 200 - - 0.963 ms
+2023-11-24 11:23:08 info: GET /test/jsonsearchquery 200 - - 0.628 ms
+2023-11-24 11:26:42 info: GET /test/jsonsearchquery 200 - - 0.639 ms
+2023-11-24 11:27:45 info: GET /test/jsonsearchquery 200 - - 0.641 ms
+2023-11-24 11:29:53 info: GET /test/jsonsearchquery 200 - - 0.626 ms
+2023-11-24 11:33:03 info: GET /test/jsonsearchquery 200 - - 0.444 ms
+2023-11-24 11:37:19 info: GET /test/jsonsearchquery 200 - - 0.524 ms
+2023-11-24 11:37:37 info: GET /test/jsonsearchquery 200 - - 0.535 ms
+2023-11-24 11:37:41 info: GET /test/jsonsearchquery 200 - - 1.173 ms
+2023-11-24 11:38:28 info: GET /test/jsonsearchquery 200 - - 0.517 ms
+2023-11-24 11:41:26 info: GET /test/jsonsearchquery 200 - - 0.639 ms
+2023-11-24 12:10:41 info: GET /test/jsonsearchquery 200 - - 0.515 ms
+2023-11-24 12:24:47 info: GET /test/jsonsearchquery 200 - - 0.448 ms
+2023-11-24 12:24:57 info: GET /test/jsonsearchquery 200 - - 0.525 ms
+2023-11-24 12:25:20 info: GET /test/jsonsearchquery 200 - - 0.434 ms
+2023-11-24 12:27:29 info: GET /test/jsonsearchquery 200 - - 0.463 ms
+2023-11-24 12:28:47 info: GET /test/jsonsearchquery 200 - - 0.432 ms
+2023-11-24 12:29:19 info: GET /test/jsonsearchquery 200 - - 1.183 ms
+2023-11-24 12:33:23 info: GET /test/jsonsearchquery 200 - - 0.430 ms
+2023-11-24 12:33:32 info: GET /test/jsonsearchquery 200 - - 0.416 ms
+2023-11-24 12:41:28 info: GET /test/jsonsearchquery 200 - - 1.117 ms
+2023-11-24 12:49:56 info: GET /test/jsonsearchquery 200 - - 0.446 ms
+2023-11-24 12:50:14 info: =================================
+2023-11-24 12:50:14 info: ======= ENV: development ========
+2023-11-24 12:50:14 info: App listening on the port 5000
+2023-11-24 12:50:14 info: =================================
+2023-11-24 12:53:58 info: GET /test/jsonsearchquery 200 - - 8.577 ms
+2023-11-24 12:55:03 info: GET /test/jsonsearchquery 200 - - 0.625 ms
+2023-11-24 14:53:56 info: =================================
+2023-11-24 14:53:56 info: ======= ENV: development ========
+2023-11-24 14:53:56 info: App listening on the port 5000
+2023-11-24 14:53:56 info: =================================
+2023-11-24 14:56:37 info: GET /test/jsonautosuggest 500 1817 - 11.874 ms
+2023-11-24 14:56:59 info: GET /test/jsonautosuggest 500 1817 - 1.099 ms
+2023-11-24 14:57:16 info: GET /test/jsonsearchquery 200 - - 5.079 ms
+2023-11-24 14:59:16 info: GET /test/jsonautosuggest 500 1817 - 2.092 ms
+2023-11-24 15:00:53 info: GET /test/jsonsearchquery 200 - - 0.723 ms
+2023-11-24 15:06:42 info: =================================
+2023-11-24 15:06:42 info: ======= ENV: development ========
+2023-11-24 15:06:42 info: App listening on the port 5000
+2023-11-24 15:06:42 info: =================================
+2023-11-24 15:06:55 info: GET /test/jsonsearchquery 200 - - 4.192 ms
+2023-11-24 15:07:06 info: GET /test/jsonautosuggest 500 1817 - 5.843 ms
+2023-11-24 15:07:06 info: GET /test/jsonautosuggest 500 1817 - 1.754 ms
+2023-11-24 15:09:17 info: GET /test/jsonautosuggest 200 18 - 0.759 ms
+2023-11-24 15:09:19 info: GET /test/jsonsearchquery 200 - - 0.632 ms
+2023-11-24 15:09:22 info: PUT /hello 200 20 - 23.824 ms
+2023-11-24 15:09:23 info: GET /hello 200 20 - 0.519 ms
+2023-11-24 15:10:31 info: =================================
+2023-11-24 15:10:31 info: ======= ENV: development ========
+2023-11-24 15:10:31 info: App listening on the port 5000
+2023-11-24 15:10:31 info: =================================
+2023-11-24 15:10:35 info: GET /test/jsonautosuggest 200 18 - 2.594 ms
+2023-11-24 15:10:40 info: GET /test/jsonautosuggest 304 - - 1.742 ms
+2023-11-24 15:10:40 info: GET /test/jsonautosuggest 304 - - 0.608 ms
+2023-11-24 15:10:45 info: GET /test/jsonautosuggest 304 - - 0.424 ms
+2023-11-24 15:11:48 info: =================================
+2023-11-24 15:11:48 info: ======= ENV: development ========
+2023-11-24 15:11:48 info: App listening on the port 5000
+2023-11-24 15:11:48 info: =================================
+2023-11-24 15:11:49 info: GET /test/jsonautosuggest 200 26 - 2.779 ms
+2023-11-24 15:11:50 info: GET /test/jsonautosuggest 304 - - 0.554 ms
+2023-11-24 15:11:51 info: GET /test/jsonautosuggest 304 - - 0.507 ms
+2023-11-24 15:11:52 info: GET /test/jsonautosuggest 304 - - 0.912 ms
+2023-11-24 15:11:53 info: GET /test/jsonautosuggest 304 - - 0.825 ms
+2023-11-24 15:11:55 info: GET /test/jsonautosuggest 304 - - 0.419 ms
+2023-11-24 15:11:55 info: GET /test/jsonautosuggest 304 - - 0.831 ms
+2023-11-24 15:11:56 info: GET /test/jsonautosuggest 304 - - 0.954 ms
+2023-11-24 15:12:14 info: GET /test/jsonautosuggest 304 - - 0.931 ms
+2023-11-24 15:12:15 info: GET /test/jsonautosuggest 304 - - 0.592 ms
+2023-11-24 15:12:17 info: GET /test/jsonautosuggest 304 - - 0.391 ms
+2023-11-24 15:12:17 info: GET /test/jsonautosuggest 304 - - 0.632 ms
+2023-11-24 15:12:17 info: GET /test/jsonautosuggest 304 - - 1.289 ms
+2023-11-24 15:12:41 info: =================================
+2023-11-24 15:12:41 info: ======= ENV: development ========
+2023-11-24 15:12:41 info: App listening on the port 5000
+2023-11-24 15:12:41 info: =================================
+2023-11-24 15:12:42 info: GET /test/jsonautosuggest 200 28 - 2.585 ms
+2023-11-24 15:12:44 info: GET /test/jsonautosuggest 304 - - 0.696 ms
+2023-11-24 15:12:44 info: GET /test/jsonautosuggest 304 - - 0.518 ms
+2023-11-24 15:12:45 info: GET /test/jsonautosuggest 304 - - 0.877 ms
+2023-11-24 15:12:45 info: GET /test/jsonautosuggest 304 - - 0.375 ms
+2023-11-24 15:12:46 info: GET /test/jsonautosuggest 304 - - 0.369 ms
+2023-11-24 15:12:46 info: GET /test/jsonautosuggest 304 - - 0.610 ms
+2023-11-24 15:12:47 info: GET /test/jsonautosuggest 304 - - 0.453 ms
+2023-11-24 15:12:47 info: GET /test/jsonautosuggest 304 - - 0.430 ms
+2023-11-24 15:12:47 info: GET /test/jsonautosuggest 304 - - 0.491 ms
+2023-11-24 15:12:47 info: GET /test/jsonautosuggest 304 - - 0.847 ms
+2023-11-24 15:12:48 info: GET /test/jsonautosuggest 304 - - 0.372 ms
+2023-11-24 15:12:48 info: GET /test/jsonautosuggest 304 - - 0.556 ms
+2023-11-24 15:12:48 info: GET /test/jsonautosuggest 304 - - 0.890 ms
+2023-11-24 15:14:15 info: GET /test/jsonautosuggest 304 - - 0.412 ms
+2023-11-24 15:14:15 info: GET /test/jsonautosuggest 304 - - 0.363 ms
+2023-11-24 15:14:18 info: GET /test/jsonsearchquery 200 - - 2.191 ms
+2023-11-24 15:14:41 info: GET /test/jsonsearchquery 200 - - 0.578 ms
+2023-11-24 15:15:00 info: =================================
+2023-11-24 15:15:00 info: ======= ENV: development ========
+2023-11-24 15:15:00 info: App listening on the port 5000
+2023-11-24 15:15:00 info: =================================
+2023-11-24 15:16:02 info: GET /test/jsonsearchquery 200 - - 3.536 ms
+2023-11-24 15:16:09 info: =================================
+2023-11-24 15:16:09 info: ======= ENV: development ========
+2023-11-24 15:16:09 info: App listening on the port 5000
+2023-11-24 15:16:09 info: =================================
+2023-11-24 15:17:07 info: =================================
+2023-11-24 15:17:07 info: ======= ENV: development ========
+2023-11-24 15:17:07 info: App listening on the port 5000
+2023-11-24 15:17:07 info: =================================
+2023-11-24 15:17:10 info: GET /test/jsonautosuggest?q=hi&max=5 200 26 - 2.508 ms
+2023-11-24 15:17:11 info: GET /test/jsonautosuggest?q=his&max=5 200 27 - 0.598 ms
+2023-11-24 15:17:13 info: GET /test/jsonautosuggest?q=hish&max=5 200 28 - 0.442 ms
+2023-11-24 15:17:14 info: GET /test/jsonautosuggest?q=hisho&max=5 200 29 - 0.536 ms
+2023-11-24 15:17:14 info: GET /test/jsonautosuggest?q=hishow&max=5 200 30 - 0.441 ms
+2023-11-24 15:17:15 info: GET /test/jsonautosuggest?q=hishowa&max=5 200 31 - 0.414 ms
+2023-11-24 15:17:15 info: GET /test/jsonautosuggest?q=hishowar&max=5 200 32 - 0.334 ms
+2023-11-24 15:17:15 info: GET /test/jsonautosuggest?q=hishoware&max=5 200 33 - 0.516 ms
+2023-11-24 15:17:17 info: GET /test/jsonautosuggest?q=hishowareu&max=5 200 34 - 0.428 ms
+2023-11-24 15:17:22 info: GET /test/jsonautosuggest?q=hishowareu&max=5 304 - - 0.706 ms
+2023-11-24 15:17:23 info: GET /test/jsonautosuggest?q=hishowareub&max=5 200 35 - 0.366 ms
+2023-11-24 15:17:23 info: GET /test/jsonautosuggest?q=hishowareuba&max=5 200 36 - 0.640 ms
+2023-11-24 15:17:23 info: GET /test/jsonautosuggest?q=hishowareubab&max=5 200 37 - 0.550 ms
+2023-11-24 15:17:24 info: GET /test/jsonautosuggest?q=hishowareubaby&max=5 200 38 - 0.623 ms
+2023-11-24 15:17:24 info: GET /test/jsonautosuggest?q=hishowareubab&max=5 304 - - 0.358 ms
+2023-11-24 15:17:24 info: GET /test/jsonautosuggest?q=hishowareuba&max=5 304 - - 0.849 ms
+2023-11-24 15:17:24 info: GET /test/jsonautosuggest?q=hishowareub&max=5 304 - - 0.537 ms
+2023-11-24 15:17:24 info: GET /test/jsonautosuggest?q=hishowareu&max=5 304 - - 0.491 ms
+2023-11-24 15:17:24 info: GET /test/jsonautosuggest?q=hishoware&max=5 304 - - 0.521 ms
+2023-11-24 15:17:24 info: GET /test/jsonautosuggest?q=hishowar&max=5 304 - - 0.397 ms
+2023-11-24 15:17:24 info: GET /test/jsonautosuggest?q=hishowa&max=5 304 - - 0.417 ms
+2023-11-24 15:17:24 info: GET /test/jsonautosuggest?q=hishow&max=5 304 - - 0.504 ms
+2023-11-24 15:17:25 info: GET /test/jsonautosuggest?q=hisho&max=5 304 - - 0.322 ms
+2023-11-24 15:17:25 info: GET /test/jsonautosuggest?q=hish&max=5 304 - - 0.365 ms
+2023-11-24 15:17:25 info: GET /test/jsonautosuggest?q=his&max=5 304 - - 0.323 ms
+2023-11-24 15:17:25 info: GET /test/jsonautosuggest?q=hi&max=5 304 - - 0.329 ms
+2023-11-24 15:17:25 info: GET /test/jsonautosuggest?q=h&max=5 200 25 - 1.029 ms
+2023-11-24 15:18:36 info: =================================
+2023-11-24 15:18:36 info: ======= ENV: development ========
+2023-11-24 15:18:36 info: App listening on the port 5000
+2023-11-24 15:18:36 info: =================================
+2023-11-24 15:21:09 info: =================================
+2023-11-24 15:21:09 info: ======= ENV: development ========
+2023-11-24 15:21:09 info: App listening on the port 5000
+2023-11-24 15:21:09 info: =================================
+2023-11-24 15:21:12 info: GET /test/jsonautosuggest?q=l&max=5 200 131 - 2.749 ms
+2023-11-24 15:21:12 info: GET /test/jsonautosuggest?q=la&max=5 200 136 - 0.589 ms
+2023-11-24 15:21:12 info: GET /test/jsonautosuggest?q=lay&max=5 200 141 - 0.471 ms
+2023-11-24 15:21:13 info: GET /test/jsonautosuggest?q=layk&max=5 200 146 - 0.318 ms
+2023-11-24 15:21:13 info: GET /test/jsonautosuggest?q=layka&max=5 200 151 - 0.441 ms
+2023-11-24 15:21:13 info: GET /test/jsonautosuggest?q=laykay&max=5 200 156 - 0.838 ms
+2023-11-24 15:21:14 info: GET /test/jsonautosuggest?q=laykayb&max=5 200 161 - 0.363 ms
+2023-11-24 15:21:14 info: GET /test/jsonautosuggest?q=laykayba&max=5 200 166 - 0.336 ms
+2023-11-24 15:21:15 info: GET /test/jsonautosuggest?q=laykaybah&max=5 200 171 - 0.352 ms
+2023-11-24 15:21:15 info: GET /test/jsonautosuggest?q=laykaybaha&max=5 200 176 - 0.425 ms
+2023-11-24 15:21:15 info: GET /test/jsonautosuggest?q=laykaybahai&max=5 200 181 - 0.366 ms
+2023-11-24 15:21:15 info: GET /test/jsonautosuggest?q=laykaybahain&max=5 200 186 - 0.894 ms
+2023-11-24 15:21:15 info: GET /test/jsonautosuggest?q=laykaybahain%20&max=5 200 191 - 0.436 ms
+2023-11-24 15:21:17 info: GET /test/jsonautosuggest?q=laykaybahain%20b&max=5 200 196 - 0.376 ms
+2023-11-24 15:21:17 info: GET /test/jsonautosuggest?q=laykaybahain%20ba&max=5 200 201 - 0.338 ms
+2023-11-24 15:21:17 info: GET /test/jsonautosuggest?q=laykaybahain%20bah&max=5 200 206 - 0.361 ms
+2023-11-24 15:21:17 info: GET /test/jsonautosuggest?q=laykaybahain%20baho&max=5 200 211 - 0.750 ms
+2023-11-24 15:21:17 info: GET /test/jsonautosuggest?q=laykaybahain%20bahon&max=5 200 216 - 0.728 ms
+2023-11-24 15:21:18 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonm&max=5 200 221 - 1.272 ms
+2023-11-24 15:21:18 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonma&max=5 200 226 - 1.171 ms
+2023-11-24 15:21:18 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmai&max=5 200 231 - 0.360 ms
+2023-11-24 15:21:18 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain&max=5 200 236 - 0.961 ms
+2023-11-24 15:21:18 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20&max=5 200 241 - 0.931 ms
+2023-11-24 15:21:19 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20s&max=5 200 246 - 0.437 ms
+2023-11-24 15:21:20 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20&max=5 304 - - 0.926 ms
+2023-11-24 15:21:20 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20h&max=5 200 246 - 0.873 ms
+2023-11-24 15:21:20 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hu&max=5 200 251 - 0.711 ms
+2023-11-24 15:21:20 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hun&max=5 200 256 - 0.961 ms
+2023-11-24 15:21:23 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hun+str+&max=5 200 281 - 0.849 ms
+2023-11-24 15:21:23 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hun+str&max=5 200 276 - 1.102 ms
+2023-11-24 15:21:24 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hun+st&max=5 200 271 - 0.843 ms
+2023-11-24 15:21:24 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hun+s&max=5 200 266 - 0.334 ms
+2023-11-24 15:21:25 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hun+&max=5 200 261 - 0.877 ms
+2023-11-24 15:21:25 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hun&max=5 304 - - 0.415 ms
+2023-11-24 15:21:25 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hu&max=5 304 - - 0.329 ms
+2023-11-24 15:21:26 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hum&max=5 200 256 - 0.818 ms
+2023-11-24 15:21:31 info: GET /test/jsonsearchquery 200 - - 2.238 ms
+2023-11-24 15:21:35 info: GET /test/jsonautosuggest?q=laykaybahain%20bahonmain%20hum+str+1&max=5 200 286 - 0.852 ms
+2023-11-24 15:22:10 info: GET /test/jsonautosuggest?q=w&max=5 200 131 - 0.413 ms
+2023-11-24 15:22:11 info: GET /test/jsonautosuggest?q=wh&max=5 200 136 - 0.738 ms
+2023-11-24 15:22:11 info: GET /test/jsonautosuggest?q=wha&max=5 200 141 - 0.863 ms
+2023-11-24 15:22:11 info: GET /test/jsonautosuggest?q=what&max=5 200 146 - 0.320 ms
+2023-11-24 15:22:13 info: GET /test/jsonautosuggest?q=wha&max=5 304 - - 0.431 ms
+2023-11-24 15:22:13 info: GET /test/jsonautosuggest?q=wh&max=5 304 - - 0.393 ms
+2023-11-24 15:22:13 info: GET /test/jsonautosuggest?q=w&max=5 304 - - 0.336 ms
+2023-11-24 15:23:23 info: GET /test/jsonautosuggest?q=w&max=5 304 - - 0.327 ms
+2023-11-24 15:23:23 info: GET /test/jsonautosuggest?q=wh&max=5 304 - - 0.416 ms
+2023-11-24 15:23:23 info: GET /test/jsonautosuggest?q=wha&max=5 304 - - 0.341 ms
+2023-11-24 15:23:23 info: GET /test/jsonautosuggest?q=what&max=5 304 - - 0.342 ms
+2023-11-24 15:23:25 info: GET /test/jsonautosuggest?q=what&max=5 304 - - 0.352 ms
+2023-11-24 15:23:32 info: GET /test/jsonautosuggest?q=what&max=5 304 - - 0.306 ms
+2023-11-24 15:23:34 info: GET /test/jsonautosuggest?q=what+str+&max=5 200 171 - 3.007 ms
+2023-11-24 15:23:34 info: GET /test/jsonautosuggest?q=what+str&max=5 200 166 - 0.520 ms
+2023-11-24 15:23:35 info: GET /test/jsonautosuggest?q=what+st&max=5 200 161 - 0.712 ms
+2023-11-24 15:23:35 info: GET /test/jsonautosuggest?q=what+s&max=5 200 156 - 0.493 ms
+2023-11-24 15:23:35 info: GET /test/jsonautosuggest?q=what+&max=5 200 151 - 0.856 ms
+2023-11-24 15:23:35 info: GET /test/jsonautosuggest?q=what&max=5 304 - - 0.814 ms
+2023-11-24 15:23:35 info: GET /test/jsonautosuggest?q=wha&max=5 304 - - 0.713 ms
+2023-11-24 15:23:36 info: GET /test/jsonautosuggest?q=what&max=5 304 - - 0.719 ms
+2023-11-24 15:23:48 info: GET /test/jsonautosuggest?q=what&max=5 304 - - 0.538 ms
+2023-11-24 15:25:36 info: GET /test/jsonautosuggest?q=what&max=5 304 - - 0.335 ms
+2023-11-24 15:25:37 info: GET /test/jsonautosuggest?q=whatw&max=5 200 151 - 0.844 ms
+2023-11-24 15:25:37 info: GET /test/jsonautosuggest?q=whatwa&max=5 200 156 - 0.474 ms
+2023-11-24 15:25:40 info: GET /test/jsonsearchquery 200 - - 0.620 ms
+2023-11-24 15:25:41 info: GET /test/jsonautosuggest?q=whatwa&max=5 304 - - 0.347 ms
+2023-11-24 15:25:41 info: GET /test/jsonautosuggest?q=whatwaa&max=5 200 161 - 0.726 ms
+2023-11-24 15:25:41 info: GET /test/jsonautosuggest?q=whatwaar&max=5 200 166 - 0.751 ms
+2023-11-24 15:25:41 info: GET /test/jsonautosuggest?q=whatwaare&max=5 200 171 - 0.315 ms
+2023-11-24 15:25:42 info: GET /test/jsonautosuggest?q=whatwaare%20&max=5 200 176 - 0.317 ms
+2023-11-24 15:25:42 info: GET /test/jsonautosuggest?q=whatwaare%20u&max=5 200 181 - 0.502 ms
+2023-11-24 15:25:44 info: GET /test/jsonsearchquery 200 - - 0.683 ms
+2023-11-24 15:28:28 info: GET /test/jsonautosuggest?q=whatwaare%20u&max=5 304 - - 0.324 ms
+2023-11-24 15:28:29 info: GET /test/jsonautosuggest?q=whatwaare%20u%20&max=5 200 186 - 0.319 ms
+2023-11-24 15:28:29 info: GET /test/jsonautosuggest?q=whatwaare%20u%20j&max=5 200 191 - 0.720 ms
+2023-11-24 15:28:30 info: GET /test/jsonautosuggest?q=whatwaare%20u%20ji&max=5 200 196 - 0.859 ms
+2023-11-24 15:28:30 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jis&max=5 200 201 - 0.323 ms
+2023-11-24 15:28:30 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jiss&max=5 200 206 - 0.486 ms
+2023-11-24 15:28:31 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissa&max=5 200 211 - 0.318 ms
+2023-11-24 15:28:31 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay&max=5 200 216 - 0.368 ms
+2023-11-24 15:28:31 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay%20&max=5 200 221 - 0.742 ms
+2023-11-24 15:28:31 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay%20h&max=5 200 226 - 0.348 ms
+2023-11-24 15:28:31 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay%20hu&max=5 200 231 - 0.327 ms
+2023-11-24 15:28:32 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay%20hum&max=5 200 236 - 0.655 ms
+2023-11-24 15:28:32 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay%20hum]&max=5 200 241 - 0.730 ms
+2023-11-24 15:28:33 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay%20hum&max=5 304 - - 0.344 ms
+2023-11-24 15:28:33 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay%20hu&max=5 304 - - 0.321 ms
+2023-11-24 15:28:33 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay%20h&max=5 304 - - 0.335 ms
+2023-11-24 15:28:33 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay%20&max=5 304 - - 0.334 ms
+2023-11-24 15:28:33 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissay&max=5 304 - - 0.299 ms
+2023-11-24 15:28:33 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jissa&max=5 304 - - 0.308 ms
+2023-11-24 15:28:33 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jiss&max=5 304 - - 0.302 ms
+2023-11-24 15:28:33 info: GET /test/jsonautosuggest?q=whatwaare%20u%20jis&max=5 304 - - 0.290 ms
+2023-11-24 15:28:33 info: GET /test/jsonautosuggest?q=whatwaare%20u%20ji&max=5 304 - - 0.285 ms
+2023-11-24 15:28:33 info: GET /test/jsonautosuggest?q=whatwaare%20u%20j&max=5 304 - - 0.319 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=whatwaare%20u%20&max=5 304 - - 0.326 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=whatwaare%20u&max=5 304 - - 0.443 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=whatwaare%20&max=5 304 - - 0.500 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=whatwaare&max=5 304 - - 0.520 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=whatwaar&max=5 304 - - 0.501 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=whatwaa&max=5 304 - - 0.571 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=whatwa&max=5 304 - - 0.539 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=whatw&max=5 304 - - 0.511 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=what&max=5 304 - - 0.499 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=wha&max=5 304 - - 0.514 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=wh&max=5 304 - - 0.515 ms
+2023-11-24 15:28:34 info: GET /test/jsonautosuggest?q=w&max=5 304 - - 0.519 ms
+2023-11-24 15:28:40 info: GET /test/jsonautosuggest?q=w&max=5 304 - - 0.318 ms
+2023-11-24 15:28:40 info: GET /test/jsonautosuggest?q=wh&max=5 304 - - 0.314 ms
+2023-11-24 15:28:40 info: GET /test/jsonautosuggest?q=wha&max=5 304 - - 0.324 ms
+2023-11-24 15:28:40 info: GET /test/jsonautosuggest?q=what&max=5 304 - - 0.839 ms
+2023-11-24 15:28:40 info: GET /test/jsonautosuggest?q=what%20&max=5 200 151 - 0.776 ms
+2023-11-24 15:28:40 info: GET /test/jsonautosuggest?q=what%20t&max=5 200 156 - 0.766 ms
+2023-11-24 15:28:40 info: GET /test/jsonautosuggest?q=what%20th&max=5 200 161 - 0.326 ms
+2023-11-24 15:28:40 info: GET /test/jsonautosuggest?q=what%20the&max=5 200 166 - 0.385 ms
+2023-11-24 15:28:41 info: GET /test/jsonautosuggest?q=what%20the%20&max=5 200 171 - 0.766 ms
+2023-11-24 15:28:41 info: GET /test/jsonautosuggest?q=what%20the%20f&max=5 200 176 - 0.313 ms
+2023-11-24 15:28:41 info: GET /test/jsonautosuggest?q=what%20the%20fk&max=5 200 181 - 0.347 ms
+2023-11-24 15:28:45 info: GET /test/jsonsearchquery 200 - - 1.081 ms
+2023-11-24 15:28:49 info: GET /test/jsonautosuggest?q=what%20the%20fk+str+5&max=5 200 211 - 0.303 ms
+2023-11-24 15:28:51 info: GET /test/jsonautosuggest?q=what%20the%20fk+str+5&max=5 304 - - 0.346 ms

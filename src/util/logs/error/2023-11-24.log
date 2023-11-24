@@ -1,0 +1,12 @@
+2023-11-24 15:06:35 error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1751:16)
+    at listenInCluster (node:net:1799:12)
+    at Server.listen (node:net:1887:7)
+    at Function.listen (/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/node_modules/.pnpm/express@4.18.2/node_modules/express/lib/application.js:635:24)
+    at App.listen (/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/src/app.ts:33:14)
+    at Object.<anonymous> (/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/src/server.ts:8:5)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module.m._compile (/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/node_modules/.pnpm/ts-node@10.9.1_@types+node@20.9.0_typescript@5.2.2/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Object.require.extensions.<computed> [as .ts] (/mnt/8464326A64325EDC/Projects/MSE/MSE Backend/express_mse_be/node_modules/.pnpm/ts-node@10.9.1_@types+node@20.9.0_typescript@5.2.2/node_modules/ts-node/src/index.ts:1621:12)

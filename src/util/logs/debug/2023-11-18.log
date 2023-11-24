@@ -1,0 +1,104 @@
+2023-11-18 11:19:31 info: =================================
+2023-11-18 11:19:31 info: ======= ENV: development ========
+2023-11-18 11:19:31 info: App listening on the port 5000
+2023-11-18 11:19:31 info: =================================
+2023-11-18 11:19:58 info: GET /test/jsonsearchquery 200 - - 3.282 ms
+2023-11-18 11:20:43 info: GET /test/jsonsearchquery 200 - - 0.790 ms
+2023-11-18 11:20:55 info: GET /test/jsonsearchquery 200 - - 1.081 ms
+2023-11-18 11:21:14 info: GET /test/jsonsearchquery 200 - - 0.638 ms
+2023-11-18 11:24:22 info: GET /test/jsonsearchquery 200 - - 0.604 ms
+2023-11-18 11:25:20 info: GET /test/jsonsearchquery 200 - - 0.558 ms
+2023-11-18 11:41:29 info: GET /test/jsonsearchquery 200 - - 0.457 ms
+2023-11-18 11:42:01 info: GET /test/jsonsearchquery 200 - - 0.493 ms
+2023-11-18 11:44:59 info: GET /test/jsonsearchquery 200 - - 0.742 ms
+2023-11-18 11:45:21 info: GET /test/jsonsearchquery 200 - - 1.632 ms
+2023-11-18 11:46:13 info: GET /test/jsonsearchquery 200 - - 0.682 ms
+2023-11-18 11:48:09 info: GET /test/jsonsearchquery 200 - - 1.226 ms
+2023-11-18 11:48:22 info: GET /test/jsonsearchquery 200 - - 1.495 ms
+2023-11-18 11:48:32 info: GET /test/jsonsearchquery 200 - - 1.419 ms
+2023-11-18 11:48:46 info: GET /test/jsonsearchquery 200 - - 0.661 ms
+2023-11-18 11:53:45 info: GET /test/jsonsearchquery 200 - - 0.423 ms
+2023-11-18 11:53:47 info: GET /test/jsonsearchquery 200 - - 0.461 ms
+2023-11-18 11:53:53 info: GET /test/jsonsearchquery 200 - - 0.619 ms
+2023-11-18 11:53:57 info: GET /test/jsonsearchquery 200 - - 0.495 ms
+2023-11-18 11:54:19 info: GET /test/jsonsearchquery 200 - - 0.483 ms
+2023-11-18 11:54:31 info: GET /test/jsonsearchquery 200 - - 1.065 ms
+2023-11-18 11:54:35 info: GET /test/jsonsearchquery 200 - - 0.425 ms
+2023-11-18 11:54:42 info: GET /test/jsonsearchquery 200 - - 0.419 ms
+2023-11-18 11:54:46 info: GET /test/jsonsearchquery 200 - - 0.570 ms
+2023-11-18 11:55:09 info: GET /test/jsonsearchquery 200 - - 0.661 ms
+2023-11-18 11:58:33 info: GET /test/jsonsearchquery 200 - - 0.514 ms
+2023-11-18 11:58:41 info: GET /test/jsonsearchquery 200 - - 0.344 ms
+2023-11-18 11:58:55 info: GET /test/jsonsearchquery 200 - - 0.535 ms
+2023-11-18 11:59:32 info: GET /test/jsonsearchquery 200 - - 0.401 ms
+2023-11-18 11:59:37 info: GET /test/jsonsearchquery 200 - - 0.907 ms
+2023-11-18 12:05:04 info: GET /test/jsonsearchquery 200 - - 1.120 ms
+2023-11-18 12:05:28 info: GET /test/jsonsearchquery 200 - - 0.644 ms
+2023-11-18 12:06:15 info: GET /test/jsonsearchquery 200 - - 0.703 ms
+2023-11-18 12:06:38 info: GET /test/jsonsearchquery 200 - - 0.368 ms
+2023-11-18 12:06:45 info: GET /test/jsonsearchquery 200 - - 0.501 ms
+2023-11-18 12:11:53 info: GET /test/jsonsearchquery 200 - - 0.384 ms
+2023-11-18 12:11:55 info: GET /test/jsonsearchquery 200 - - 0.406 ms
+2023-11-18 12:12:20 info: GET /test/jsonsearchquery 200 - - 0.435 ms
+2023-11-18 12:12:35 info: GET /test/jsonsearchquery 200 - - 0.501 ms
+2023-11-18 12:12:54 info: GET /test/jsonsearchquery 200 - - 0.383 ms
+2023-11-18 12:12:57 info: GET /test/jsonsearchquery 200 - - 0.424 ms
+2023-11-18 12:13:38 info: GET /test/jsonsearchquery 200 - - 0.408 ms
+2023-11-18 12:13:43 info: GET /test/jsonsearchquery 200 - - 0.533 ms
+2023-11-18 12:14:14 info: GET /test/jsonsearchquery 200 - - 0.591 ms
+2023-11-18 12:14:32 info: GET /test/jsonsearchquery 200 - - 0.417 ms
+2023-11-18 12:14:40 info: GET /test/jsonsearchquery 200 - - 0.408 ms
+2023-11-18 12:14:53 info: GET /test/jsonsearchquery 200 - - 0.421 ms
+2023-11-18 12:15:04 info: GET /test/jsonsearchquery 200 - - 1.450 ms
+2023-11-18 12:15:12 info: GET /test/jsonsearchquery 200 - - 0.397 ms
+2023-11-18 12:15:32 info: GET /test/jsonsearchquery 200 - - 0.456 ms
+2023-11-18 12:15:44 info: GET /test/jsonsearchquery 200 - - 0.392 ms
+2023-11-18 12:15:48 info: GET /test/jsonsearchquery 200 - - 0.414 ms
+2023-11-18 12:15:49 info: GET /test/jsonsearchquery 200 - - 0.544 ms
+2023-11-18 12:39:47 info: GET /test/jsonsearchquery 200 - - 0.450 ms
+2023-11-18 12:39:55 info: GET /test/jsonsearchquery 200 - - 0.579 ms
+2023-11-18 12:50:46 info: GET /test/jsonsearchquery 200 - - 0.383 ms
+2023-11-18 12:50:57 info: GET /test/jsonsearchquery 200 - - 0.455 ms
+2023-11-18 12:51:31 info: GET /test/jsonsearchquery 200 - - 0.377 ms
+2023-11-18 12:55:25 info: GET /test/jsonsearchquery 200 - - 0.363 ms
+2023-11-18 13:04:53 info: GET /test/jsonsearchquery 200 - - 0.498 ms
+2023-11-18 13:05:18 info: GET /test/jsonsearchquery 200 - - 1.244 ms
+2023-11-18 13:07:03 info: GET /test/jsonsearchquery 200 - - 0.466 ms
+2023-11-18 13:13:51 info: GET /test/jsonsearchquery 200 - - 0.826 ms
+2023-11-18 13:14:45 info: GET /test/jsonsearchquery 200 - - 0.434 ms
+2023-11-18 13:15:14 info: GET /test/jsonsearchquery 200 - - 0.784 ms
+2023-11-18 13:15:35 info: GET /test/jsonsearchquery 200 - - 0.396 ms
+2023-11-18 13:15:53 info: GET /test/jsonsearchquery 200 - - 0.397 ms
+2023-11-18 13:16:56 info: GET /test/jsonsearchquery 200 - - 0.366 ms
+2023-11-18 13:17:02 info: GET /test/jsonsearchquery 200 - - 0.427 ms
+2023-11-18 13:17:45 info: GET /test/jsonsearchquery 200 - - 0.384 ms
+2023-11-18 13:18:12 info: GET /test/jsonsearchquery 200 - - 0.898 ms
+2023-11-18 13:18:17 info: GET /test/jsonsearchquery 200 - - 0.371 ms
+2023-11-18 13:19:04 info: GET /test/jsonsearchquery 200 - - 1.503 ms
+2023-11-18 13:19:49 info: GET /test/jsonsearchquery 200 - - 0.403 ms
+2023-11-18 13:19:57 info: GET /test/jsonsearchquery 200 - - 0.397 ms
+2023-11-18 13:23:05 info: GET /test/jsonsearchquery 200 - - 0.442 ms
+2023-11-18 13:23:12 info: GET /test/jsonsearchquery 200 - - 0.397 ms
+2023-11-18 13:24:29 info: GET /test/jsonsearchquery 200 - - 0.595 ms
+2023-11-18 13:24:52 info: GET /test/jsonsearchquery 200 - - 0.888 ms
+2023-11-18 13:25:10 info: GET /test/jsonsearchquery 200 - - 1.296 ms
+2023-11-18 13:29:09 info: GET /test/jsonsearchquery 200 - - 0.345 ms
+2023-11-18 13:29:12 info: GET /test/jsonsearchquery 200 - - 0.979 ms
+2023-11-18 13:29:19 info: GET /test/jsonsearchquery 200 - - 0.373 ms
+2023-11-18 17:53:05 info: =================================
+2023-11-18 17:53:05 info: ======= ENV: development ========
+2023-11-18 17:53:05 info: App listening on the port 5000
+2023-11-18 17:53:05 info: =================================
+2023-11-18 17:53:09 info: GET /test/jsonsearchquery 200 - - 3.386 ms
+2023-11-18 17:53:16 info: GET /test/jsonsearchquery 200 - - 1.295 ms
+2023-11-18 17:53:43 info: GET /test/jsonsearchquery 200 - - 0.631 ms
+2023-11-18 17:54:47 info: GET /test/jsonsearchquery 200 - - 0.606 ms
+2023-11-18 17:57:47 info: GET /test/jsonsearchquery 200 - - 0.770 ms
+2023-11-18 18:29:04 info: =================================
+2023-11-18 18:29:04 info: ======= ENV: development ========
+2023-11-18 18:29:04 info: App listening on the port 5000
+2023-11-18 18:29:04 info: =================================
+2023-11-18 18:29:07 info: =================================
+2023-11-18 18:29:07 info: ======= ENV: development ========
+2023-11-18 18:29:07 info: App listening on the port 5000
+2023-11-18 18:29:07 info: =================================

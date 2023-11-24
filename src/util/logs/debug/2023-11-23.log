@@ -1,0 +1,36 @@
+2023-11-23 11:20:06 info: =================================
+2023-11-23 11:20:06 info: ======= ENV: development ========
+2023-11-23 11:20:06 info: App listening on the port 5000
+2023-11-23 11:20:06 info: =================================
+2023-11-23 12:56:43 info: GET /test/jsonsearchquery 200 - - 3.226 ms
+2023-11-23 12:56:56 info: GET /test/jsonsearchquery 200 - - 0.876 ms
+2023-11-23 12:56:58 info: GET /test/jsonsearchquery 200 - - 1.033 ms
+2023-11-23 12:57:02 info: GET /test/jsonsearchquery 200 - - 0.773 ms
+2023-11-23 12:57:04 info: GET /test/jsonsearchquery 200 - - 1.624 ms
+2023-11-23 12:57:06 info: GET /test/jsonsearchquery 200 - - 0.662 ms
+2023-11-23 12:57:09 info: GET /test/jsonsearchquery 200 - - 0.570 ms
+2023-11-23 13:00:10 info: GET /test/jsonsearchquery 200 - - 0.766 ms
+2023-11-23 13:00:39 info: GET /test/jsonsearchquery 200 - - 0.580 ms
+2023-11-23 13:08:53 info: GET /test/jsonsearchquery 200 - - 0.693 ms
+2023-11-23 13:17:22 info: GET /test/jsonsearchquery 200 - - 0.623 ms
+2023-11-23 13:37:21 info: GET /test/jsonsearchquery 200 - - 0.510 ms
+2023-11-23 13:39:09 info: GET /test/jsonsearchquery 200 - - 0.548 ms
+2023-11-23 13:39:11 info: GET /test/jsonsearchquery 200 - - 0.559 ms
+2023-11-23 13:47:53 info: GET /test/jsonsearchquery 200 - - 0.708 ms
+2023-11-23 13:48:10 info: GET /test/jsonsearchquery 200 - - 0.622 ms
+2023-11-23 13:48:32 info: GET /test/jsonsearchquery 200 - - 0.460 ms
+2023-11-23 14:07:46 info: GET /test/jsonsearchquery 200 - - 0.424 ms
+2023-11-23 14:07:59 info: GET /test/jsonsearchquery 200 - - 0.458 ms
+2023-11-23 14:08:19 info: GET /test/jsonsearchquery 200 - - 0.480 ms
+2023-11-23 15:04:56 info: =================================
+2023-11-23 15:04:56 info: ======= ENV: development ========
+2023-11-23 15:04:56 info: App listening on the port 5000
+2023-11-23 15:04:56 info: =================================
+2023-11-23 15:23:44 info: GET /test/jsonsearchquery 200 - - 3.340 ms
+2023-11-23 15:24:48 info: GET /test/jsonsearchquery 200 - - 0.796 ms
+2023-11-23 15:25:23 info: GET /test/jsonsearchquery 200 - - 0.568 ms
+2023-11-23 15:26:01 info: GET /test/jsonsearchquery 200 - - 0.798 ms
+2023-11-23 17:30:27 info: =================================
+2023-11-23 17:30:27 info: ======= ENV: development ========
+2023-11-23 17:30:27 info: App listening on the port 5000
+2023-11-23 17:30:27 info: =================================

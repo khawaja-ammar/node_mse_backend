@@ -1,6 +1,6 @@
 import { CorsOptions } from 'cors';
 
-const allowedOrigins = [''];
+const allowedOrigins = ['http://localhost:3000'];
 
 const corsOptions: CorsOptions = {
   origin: (origin, callback) => {
