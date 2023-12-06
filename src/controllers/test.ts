@@ -217,7 +217,8 @@ const myObj = {
   ],
 };
 
-export const getSearchResults = (req: express.Request, res: express.Response) => {
+export const getSearchResults = async (req: express.Request, res: express.Response) => {
+  await new Promise(resolve => setTimeout(resolve, 2000));
   res.status(200).json(myObj);
 };
 
