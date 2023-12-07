@@ -223,12 +223,20 @@ export const getSearchResults = async (req: express.Request, res: express.Respon
 };
 
 export const getAutoSuggestResults = (req: express.Request, res: express.Response) => {
-  const { q } = req.query;
-  const max = parseInt(req.query.max as string);
+  // const { q } = req.query;
+  // const max = parseInt(req.query.max as string);
 
-  const arr = [];
-  for (let i = 0; i < max; i++) {
-    arr.push({ id: i + 1, name: `${q}+str+${i + 1}` });
-  }
-  res.status(200).json(arr);
+  const arr2 = [
+    { name: 'Pearl Continental Lahore' },
+    { name: 'Pearl Continental Rawalpindi' },
+    { name: 'Pearl Continental Karachi' },
+    { name: 'Pearl Continental Bhurban' },
+    { name: 'Pearl Continental Hotel Malam Jabba' },
+  ];
+
+  // const arr = [];
+  // for (let i = 0; i < max; i++) {
+  //   arr.push({ id: i + 1, name: `${q}+str+${i + 1}` });
+  // }
+  res.status(200).json(arr2);
 };

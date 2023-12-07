@@ -13,4 +13,4 @@ content-type: application/json
 GET http://localhost:5000/test/jsonsearchquery
 
 ###
-GET http://localhost:5000/test/jsonautosuggest
+GET http://localhost:5000/test/jsonautosuggest?q=hello&max=5

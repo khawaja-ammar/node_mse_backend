@@ -1,16 +1,25 @@
 import express from 'express';
+import { Kysely } from 'kysely';
+
+// Util
+import { env } from './util/validateEnv';
+import { logger, stream } from './util/logger';
+
+// Config
+import { db } from './database';
+import { Database } from './database/models';
+import { corsOptions } from './config/corsOptions';
+
+// Middlewares
 import cors from 'cors';
 import bodyParser from 'body-parser';
 import compression from 'compression';
 import helmet from 'helmet';
 import hpp from 'hpp';
 import morgan from 'morgan';
+import { ErrorMiddleware } from './middlewares/error.middleware';
 
-import { env } from './util/validateEnv';
-import { logger, stream } from './util/logger';
-import { corsOptions } from './config/corsOptions';
-
-// All controllers
+// Controllers
 import * as controllerHello from './controllers/hello';
 import * as controllerTest from './controllers/test';
 
@@ -18,15 +27,17 @@ export class App {
   public app: express.Application;
   public env: string;
   public port: string | number;
+  public db: Kysely<Database>;
 
   constructor() {
     this.app = express();
     this.env = env.NODE_ENV;
     this.port = env.PORT;
+    this.db = db;
 
     this.initializeMiddlewares();
     this.initializeRoutes();
-    // this.initializeErrorHandling();
+    this.initializeErrorHandling();
   }
 
   public listen() {
@@ -62,5 +73,9 @@ export class App {
 
     this.app.get('/test/jsonsearchquery', controllerTest.getSearchResults);
     this.app.get('/test/jsonautosuggest', controllerTest.getAutoSuggestResults);
+  }
+
+  private initializeErrorHandling() {
+    this.app.use(ErrorMiddleware);
   }
 }

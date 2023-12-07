@@ -1,7 +1,13 @@
 import express from 'express';
+import { db } from '../database';
 
-export const getTest = (req: express.Request, res: express.Response) => {
-  res.status(200).json({ status: 'Success' });
+export const getTest = async (req: express.Request, res: express.Response) => {
+  try {
+    const val = await db.selectFrom('hotel_finder_table').select('hotel_name').limit(10).execute();
+    res.status(200).json({ status: val });
+  } catch (err) {
+    res.status(200).json({ status: 'FAILED' });
+  }
 };
 
 export const putTest = (req: express.Request, res: express.Response) => {
