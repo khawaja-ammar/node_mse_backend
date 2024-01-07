@@ -20,7 +20,7 @@ import morgan from 'morgan';
 import { ErrorMiddleware } from './middlewares/error.middleware';
 
 // Controllers
-import * as controllerHello from './controllers/hello';
+import * as controllerHotelv1 from './controllers/v1/hotel';
 import * as controllerTest from './controllers/test';
 
 export class App {
@@ -68,10 +68,12 @@ export class App {
   }
 
   private initializeRoutes() {
-    this.app.get('/hello', controllerHello.getTest);
-    this.app.put('/hello', controllerHello.putTest);
+    // Case 1: We get a hotel_id and location and need to find all hotels in that vicinity
+    this.app.get('/api/v1/hotel/0', controllerHotelv1.getSearchResultsUsingLocation);
+    // this.app.get('/hello', controllerHello.getTest);
+    // this.app.put('/hello', controllerHello.putTest);
 
-    this.app.get('/test/jsonsearchquery', controllerTest.getSearchResults);
+    // this.app.get('/test/jsonsearchquery', controllerTest.getSearchResults);
     this.app.get('/test/jsonautosuggest', controllerTest.getAutoSuggestResults);
   }
 
