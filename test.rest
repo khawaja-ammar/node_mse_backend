@@ -1,1 +1,4 @@
 GET http://localhost:5000/api/v1/hotel/0?q=hello&lat=102.999771&lng=31.524321
+
+###
+http://localhost:5000/test/jsonautosuggest?q=hello&max=10

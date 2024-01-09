@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --transpile-only src/server.ts"
+    "tsc": "tsc -p tsconfig.json",
+    "dev": "nodemon --transpile-only src/server.ts",
+    "build": "npm run tsc",
+    "start": "node dist/server.js"
   },
   "keywords": [],
   "author": "",

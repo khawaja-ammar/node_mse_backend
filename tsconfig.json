@@ -9,9 +9,9 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "outDir": "dist",
-    "baseUrl": ".",
-    "noEmit": true,
-    "allowImportingTsExtensions": true
+    "baseUrl": "."
+    // "noEmit": true,
+    // "allowImportingTsExtensions": true
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "src/logs"]

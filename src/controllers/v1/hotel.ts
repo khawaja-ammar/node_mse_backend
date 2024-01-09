@@ -15,6 +15,7 @@ export const getSearchResultsUsingLocation = async (req: express.Request, res: e
       ) LIMIT 10;`.execute(db);
     res.status(200).json({ properties: result.rows });
   } catch (err) {
-    res.status(500);
+    console.log(err);
+    res.status(500).json({ status: 'DB Failed to connect' });
   }
 };

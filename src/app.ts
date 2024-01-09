@@ -26,7 +26,7 @@ import * as controllerTest from './controllers/test';
 export class App {
   public app: express.Application;
   public env: string;
-  public port: string | number;
+  public port: number;
   public db: Kysely<Database>;
 
   constructor() {
@@ -41,7 +41,7 @@ export class App {
   }
 
   public listen() {
-    this.app.listen(this.port, () => {
+    this.app.listen(this.port, '0.0.0.0', () => {
       logger.info(`=================================`);
       logger.info(`======= ENV: ${this.env} ========`);
       logger.info(`App listening on the port ${this.port}`);
