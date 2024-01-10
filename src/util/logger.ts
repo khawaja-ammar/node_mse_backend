@@ -47,6 +47,13 @@ const logger = winston.createLogger({
       json: false,
       zippedArchive: true,
     }),
+
+    // console log setting for errors
+    new winston.transports.Console({
+      format: winston.format.combine(winston.format.splat(), winston.format.colorize()),
+      level: 'error',
+      handleExceptions: true,
+    }),
   ],
 });
 

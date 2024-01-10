@@ -1,0 +1,43 @@
+# TODO: Remove old images
+
+name: CICD
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: [ubuntu-latest]
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+      - name: Login to docker hub
+        run: docker login -u ${{secrets.DOCKER_USERNAME}} -p ${{secrets.DOCKER_PASSWORD}}
+      - name: Build docker image
+        run: docker build -t ${{secrets.DOCKER_USERNAME}}/mse_express .
+      - name: Publish image to docker hub
+        run: docker push ${{secrets.DOCKER_USERNAME}}/mse_express:latest
+
+  deploy:
+    needs: build
+    runs-on: [aws-ec2]
+    env:
+      PORT: ${{secrets.PORT}}
+      NODE_ENV: ${{secrets.NODE_ENV}}
+      DB_NAME: ${{secrets.DB_NAME}}
+      DB_HOST: ${{secrets.DB_HOST}}
+      DB_USER: ${{secrets.DB_USER}}
+      DB_PASS: ${{secrets.DB_PASS}}
+      DB_PORT: ${{secrets.DB_PORT}}
+      DB_MAX_CONN: ${{secrets.DB_MAX_CONN}}
+
+    steps:
+      - name: Pull image from docker hub
+        run: docker pull ${{secrets.DOCKER_USERNAME}}/mse_express:latest
+      - name: Stop old container
+        run: docker stop mse_server || true
+      - name: Delete old container
+        run: docker rm -f  mse_server || true
+      - name: Run docker container
+        run: docker run -d -p 5000:5000 --name mse_server ammarkhawaja/node_mse -e PORT=${{env.PORT}} -e NODE_ENV=${{env.NODE_ENV}} -e DB_NAME=${{env.DB_NAME}} -e DB_HOST=${{env.DB_HOST}} -e DB_USER=${{env.DB_USER}} -e DB_PASS=${{env.DB_PASS}} -e DB_PORT=${{env.DB_PORT}} -e DB_MAX_CONN=${{env.DB_MAX_CONN}}
