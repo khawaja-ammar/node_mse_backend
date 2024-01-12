@@ -40,4 +40,4 @@ jobs:
       - name: Delete old container
         run: docker rm -f  mse_server || true
       - name: Run docker container
-        run: docker run -d -p 5000:5000 --name mse_server \ -e PORT=${{env.PORT}} \ -e NODE_ENV=${{env.NODE_ENV}} \ -e DB_NAME=${{env.DB_NAME}} \ -e DB_HOST=${{env.DB_HOST}} \ -e DB_USER=${{env.DB_USER}} \ -e DB_PASS=${{env.DB_PASS}} \ -e DB_PORT=${{env.DB_PORT}} \ -e DB_MAX_CONN=${{env.DB_MAX_CONN}} \ ammarkhawaja/mse_express:latest
+        run: docker run -d -p PORT=${{env.PORT}}:PORT=${{env.PORT}} --name mse_server -e PORT=${{env.PORT}} -e NODE_ENV=${{env.NODE_ENV}} -e DB_NAME=${{env.DB_NAME}} -e DB_HOST=${{env.DB_HOST}} -e DB_USER=${{env.DB_USER}} -e DB_PASS="$env:DB_PASS" -e DB_PORT=${{env.DB_PORT}} -e DB_MAX_CONN=${{env.DB_MAX_CONN}} ammarkhawaja/mse_express:latest
